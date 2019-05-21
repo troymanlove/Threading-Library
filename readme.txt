@@ -1,3 +1,5 @@
+This is code to create a user level threading library.
+
 This has the following functions created and functioning:
 thread_create, thread_yield, thread_exit
 
